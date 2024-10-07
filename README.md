@@ -1,7 +1,7 @@
 # Evershop Ecommerce Testing
 
 **Role:** Manual Tester  
-**Tools:** TestRail, VSCode, Postman
+**Tools:** Postman, Google Sheets
 
 ## Project Overview
 This project involves testing the search functionality, cart operations, and final checkout process of the **Evershop Demo Ecommerce** site. The testing was conducted through both **UI** and **API** methods to ensure a smooth user experience and proper performance. Comprehensive test cases were written and executed, and defects were tracked manually.
